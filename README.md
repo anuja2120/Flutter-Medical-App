@@ -4,6 +4,7 @@ Developed a comprehensive Flutter-based application tailored for the medical ind
 
 A comprehensive Flutter-based application tailored for the medical industry, designed to facilitate seamless interaction between patients and healthcare providers. The application empowers patients to explore and evaluate the services offered by various doctors, enhancing their ability to make informed decisions regarding their healthcare needs. Key features include a detailed directory of medical professionals, user-friendly navigation to filter and compare services based on specialization, and integrated appointment scheduling capabilities.
 
-![Screenshot_20240610_21443111](https://github.com/anuja2120/Flutter-Medical-App/assets/137266229/fe8f3059-e302-4240-9394-403b3ff8cb27)
+![WhatsApp Image 2024-06-10 at 10 16 36 PM](https://github.com/anuja2120/Flutter-Medical-App/assets/137266229/211d2946-c852-404c-834f-9fd3fd450e54)
+![WhatsApp Image 2024-06-10 at 10 19 07 PM](https://github.com/anuja2120/Flutter-Medical-App/assets/137266229/9c1b1f45-ee7f-462e-9576-e144c01fda99)
 ![WhatsApp Image 2024-06-10 at 10 13 23 PM](https://github.com/anuja2120/Flutter-Medical-App/assets/137266229/343853d6-cd50-4ddd-8f27-f76b668f020c)
 
