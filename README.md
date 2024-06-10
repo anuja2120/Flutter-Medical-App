@@ -1,7 +1,5 @@
-# Flutter-Medical-App-Ui-Speed-Code
+# Flutter-Medical-App
 
-Created By Flutter Baba
+Developed a comprehensive Flutter-based application tailored for the medical industry, designed to facilitate seamless interaction between patients and healthcare providers. The application empowers patients to explore and evaluate the services offered by various doctors, enhancing their ability to make informed decisions regarding their healthcare needs. Key features include a detailed directory of medical professionals, user-friendly navigation to filter and compare services based on specialization, and integrated appointment scheduling capabilities.
+A comprehensive Flutter-based application tailored for the medical industry, designed to facilitate seamless interaction between patients and healthcare providers. The application empowers patients to explore and evaluate the services offered by various doctors, enhancing their ability to make informed decisions regarding their healthcare needs. Key features include a detailed directory of medical professionals, user-friendly navigation to filter and compare services based on specialization, and integrated appointment scheduling capabilities.
 
-## [Watch on YouTube](https://youtu.be/tylM_6k55NU)
-
-![New Project (1) (2)](https://user-images.githubusercontent.com/72684684/235330030-b4a1a5bb-f2a3-4ecd-831b-ec01dd339b4b.png)
